@@ -1,4 +1,4 @@
-package io.hawt.examples;
+package io.hawt.examples.app;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

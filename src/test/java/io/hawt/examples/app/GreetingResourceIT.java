@@ -1,4 +1,4 @@
-package io.hawt.examples;
+package io.hawt.examples.app;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
